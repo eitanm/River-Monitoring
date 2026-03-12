@@ -1,0 +1,9 @@
+### Missing 3D models - created on 2026-03-02 08:55
+### Printed by checking_3D_models plugin
+Board file: D:/Projects/River Monitoring/Schematics/RverMonitor.kicad_pcb
+3D missing models written to:
+D:\Projects\River Monitoring\Schematics\RverMonitor_missing3Dmodels.txt
+-------
+-------
+NUM of 3D missing models:0
+checked extensions ['.stp', '.step', '.stpZ']

@@ -1,0 +1,42 @@
+{
+  "jobs": [
+    {
+      "description": "",
+      "id": "c405ba32-3321-4bf2-b16f-561677aeeeca",
+      "settings": {
+        "black_and_white": false,
+        "color_theme": "Eitan",
+        "description": "",
+        "drawing_sheet": "",
+        "format": "pdf",
+        "hpgl_page_size": "default",
+        "hpgl_pen_size": 1.0,
+        "hpgl_plot_origin": "A3",
+        "min_pen_width": 847,
+        "output_dir": "Outputs",
+        "page_size": "auto",
+        "pdf_hierarchical_links": true,
+        "pdf_metadata": true,
+        "pdf_property_popups": true,
+        "plot_all": true,
+        "plot_drawing_sheet": true,
+        "use_background_color": true
+      },
+      "type": "sch_export_plot_pdf"
+    }
+  ],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "",
+      "id": "c53e7bfb-d2bf-414c-9caa-d2ef96ae2f94",
+      "only": [],
+      "settings": {
+        "output_path": "RiverMonitoring"
+      },
+      "type": "folder"
+    }
+  ]
+}

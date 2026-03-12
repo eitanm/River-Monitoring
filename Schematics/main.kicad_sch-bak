@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c7510bad-ad27-4132-8e6d-7df4f71a0b2e")
+	(paper "A4")
+	(title_block
+		(title "River Monitoring System")
+		(date "2026-02-11")
+		(rev "1.0")
+		(company "Integrated Solutions")
+		(comment 1 "Main Controller")
+	)
+	(lib_symbols)
+)
