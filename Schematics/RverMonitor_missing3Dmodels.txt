@@ -1,9 +1,12 @@
-### Missing 3D models - created on 2026-03-02 08:55
+### Missing 3D models - created on 2026-03-14 14:36
 ### Printed by checking_3D_models plugin
-Board file: D:/Projects/River Monitoring/Schematics/RverMonitor.kicad_pcb
+Board file: D:/Projects/River Monitoring - KiCad10/Schematics/RverMonitor.kicad_pcb
 3D missing models written to:
-D:\Projects\River Monitoring\Schematics\RverMonitor_missing3Dmodels.txt
+D:\Projects\River Monitoring - KiCad10\Schematics\RverMonitor_missing3Dmodels.txt
 -------
+('D2', '${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.step')
+('D1', '${KICAD9_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.step')
+('U1', '${KICAD9_3DMODEL_DIR}/RF_Module.3dshapes/ESP32-S3-WROOM-1.step')
 -------
-NUM of 3D missing models:0
+NUM of 3D missing models:3
 checked extensions ['.stp', '.step', '.stpZ']
