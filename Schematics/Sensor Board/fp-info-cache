@@ -1,4 +1,4 @@
-28642382199991461
+28647705383109082
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -113253,6 +113253,13 @@ Connector
 10
 10
 footprints
+855135113
+85513-5113
+Connector
+0
+9
+9
+footprints
 AMPHENOL_20021221-00010C4LF
 
 
@@ -113322,6 +113329,13 @@ Diode SMA (DO-214AC)
 0
 2
 2
+footprints
+ESP32-S3-WROOM-1
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
 footprints
 ESP32S3WROOM1N16R8
 ESP32-S3-WROOM-1-N16R8-5
@@ -113415,6 +113429,13 @@ MODULE_ESP32-C3_SUPERMINI
 16
 footprints
 MSD4A
+MSD-4-A-2
+Connector SD
+0
+13
+13
+footprints
+MSD4A_0
 MSD-4-A-2
 Connector SD
 0
